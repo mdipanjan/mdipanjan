@@ -5,10 +5,10 @@
 
 ## I'm a Developer, Teacher, Learner !!
 
-- 💬 Currently I'm working on Rect.js, React Native
+- 💬 Currently I'm working on React.js, React Native
 - 🌱 I’m currently learning Microfrontend :)
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡  Ask me about JavaScript, ReactJS, React Native 
+- ⚡  Ask me about JavaScript 
 
 
 

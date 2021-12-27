@@ -1,7 +1,7 @@
 ### Hi there, I'm Dipanjan 👋 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Dipanja55229670?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Dipanja55229670)
+[![Twitter Follow](https://img.shields.io/twitter/follow/devdjm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/devdjm)
 
 ## I'm a Developer, Teacher, Learner !!
 

@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/devdjm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/devdjm)
 
-## I'm a Developer, Teacher, Learner !!
+## I'm a Developer, Teacher, Learner.
 
 - 💬 Currently I'm working on React.js, React Native
 - 🌱 I’m currently learning Microfrontend :)

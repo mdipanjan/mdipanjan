@@ -51,6 +51,6 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/dipanjan-mondal-345747173/
+[linkedin]: https://www.linkedin.com/in/mdipanjanmondal/
 [twitter]: https://twitter.com/devdjm
 [github]: https://github.com/mdipanjan

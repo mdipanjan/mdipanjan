@@ -6,7 +6,7 @@
 ## I'm a Developer, Teacher, Learner.
 
 - 💬 Currently I'm working on React.js, React Native
-- 🌱 I’m currently learning Microfrontend :)
+- 🌱 I’m currently learning Vue.js :)
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡  Ask me about JavaScript 
 

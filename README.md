@@ -5,9 +5,8 @@
 
 ## I'm a Developer, Teacher, Learner.
 
-- 💬 Currently I'm working on React.js, React Native
-- 🌱 I’m currently learning Vue.js :)
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Rust :)
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡  Ask me about JavaScript 
 
 

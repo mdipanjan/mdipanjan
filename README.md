@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Teacher, Learner.
 
-- 🌱 I’m currently learning web3 :)
+- 🌱 I’m currently learning web3 & Rust:)
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡  Ask me about JavaScript 
 

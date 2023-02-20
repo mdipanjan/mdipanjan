@@ -3,17 +3,34 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/devdjm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/devdjm)
 
-## I'm a Developer, Teacher, Learner.
+### I'm a Self-taught develeoper accepting new challenges.
 
-- 🌱 I’m currently learning web3 & Rust:)
+<br />
+
+About Me: 
+
+
+- 💼 Mobile Engineer at [Aspire](https://aspireapp.com/)
+- 🧑🏻‍💻 I’m currently learning Web3 & Rust:)
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡  Ask me about JavaScript 
+- ⚡  Ask me about Web3 
+
+<br />
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=mdipanjan&show_icons=true&theme=light"
+  media="(prefers-color-scheme: light)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=mdipanjan&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=mdipanjan&show_icons=true" />
+</picture>
 
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdipanjan)](https://github.com/mdipanjan/github-readme-stats)
-
-
+<br />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdipanjan&langs_count=20&layout=compact)](https://github.com/mdipanjan/github-readme-stats)

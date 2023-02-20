@@ -17,7 +17,7 @@ About Me:
 
 <br />
 
-<picture>
+<!-- <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=mdipanjan&show_icons=true&theme=light"
   media="(prefers-color-scheme: light)"
@@ -30,7 +30,7 @@ About Me:
 </picture>
 
 
-<br />
+<br /> -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdipanjan&langs_count=20&layout=compact)](https://github.com/mdipanjan/github-readme-stats)

@@ -11,6 +11,12 @@
 
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdipanjan)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdipanjan&langs_count=20&layout=compact)](https://github.com/mdipanjan/github-readme-stats)
 
 
 ### Connect with me:

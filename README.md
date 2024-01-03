@@ -12,7 +12,7 @@ About Me:
 
 - 💼 Mobile Engineer at [Aspire](https://aspireapp.com/)
 - 🧑🏻‍💻 I’m currently learning Web3 & Rust:)
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Web3 projects
 - ⚡  Ask me about Web3 
 
 <br />

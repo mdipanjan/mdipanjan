@@ -33,7 +33,7 @@ About Me:
 <br /> -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdipanjan&langs_count=20&layout=compact)](https://github.com/mdipanjan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdipanjan&langs_count=10&layout=compact)](https://github.com/mdipanjan/github-readme-stats)
 
 
 ### Connect with me:

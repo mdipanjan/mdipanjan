@@ -11,9 +11,10 @@ About Me:
 
 
 - 💼 Software Engineer at [Aspire](https://aspireapp.com/)
-- 🧑🏻‍💻 I’m currently learning Web3 & Rust:)
-- 🥅 2024 Goals: Contribute more to Web3 projects
-- ⚡  Ask me about Web3 
+- 🧑🏻‍💻 I’m currently building cool things on the internet
+- 🥅 2024 Goals: Contribute more to open-source projects
+- ⚡ Ask me about web3
+
 
 <br />
 

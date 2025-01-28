@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/devdjm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/devdjm)
 
-### I'm a Self-taught develeoper accepting new challenges.
+### I'm a Self-taught Engineer accepting new challenges.
 
 <br />
 

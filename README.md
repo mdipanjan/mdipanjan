@@ -10,7 +10,6 @@
 About Me: 
 
 
-- 💼 Software Engineer at [Aspire](https://aspireapp.com/)
 - 🧑🏻‍💻 I’m currently building cool things on the internet
 - 🥅 2024 Goals: Contribute more to open-source projects
 - ⚡ Ask me about web3

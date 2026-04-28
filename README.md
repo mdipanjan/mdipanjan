@@ -8,7 +8,7 @@ I care about software that can change shape: systems that are understandable, in
 
 I write at [imd.to](https://imd.to).
 
----
+
 
 ## Things I keep coming back to
 
@@ -18,6 +18,5 @@ I write at [imd.to](https://imd.to).
 - useful interfaces
 - fast feedback loops
 
----
 
 [imd.to](https://imd.to) · [x](https://twitter.com/devdjm) · [linkedin](https://www.linkedin.com/in/mdipanjanmondal/)

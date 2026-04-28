@@ -1,79 +1,23 @@
-### Hi there, I'm Dipanjan 👋 
+# Dipanjan Mondal
 
+I like building things that start small and stay malleable.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/devdjm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/devdjm)
+Most of my work is around product engineering, mobile and web apps, AI applications, and tools that help ideas become usable sooner.
 
-### I'm a Self-taught Engineer accepting new challenges.
+I care about software that can change shape: systems that are understandable, interfaces that feel quiet, and workflows that make iteration faster instead of heavier.
 
-<br />
-
-About Me: 
-
-
-- 🧑🏻‍💻 I’m currently building cool things on the internet
-- 🥅 2024 Goals: Contribute more to open-source projects
-- ⚡ Ask me about web3
-
-
-<br />
-
-<!-- <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=mdipanjan&show_icons=true&theme=light"
-  media="(prefers-color-scheme: light)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=mdipanjan&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=mdipanjan&show_icons=true" />
-</picture>
-
-
-<br /> -->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdipanjan&hide=HTML,CSS&langs_count=8)](https://github.com/mdipanjan/github-readme-stats&theme=dracula)
-
-
-
-### Connect with me:
-
-
-
-[<img align="left" alt="dipanjanmondal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="devdjm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mdipanjan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
-<br />
+I write at [imd.to](https://imd.to).
 
 ---
 
+## Things I keep coming back to
 
+- malleable software
+- AI applications
+- tools for builders
+- useful interfaces
+- fast feedback loops
 
-[linkedin]: https://www.linkedin.com/in/mdipanjanmondal/
-[twitter]: https://twitter.com/devdjm
-[github]: https://github.com/mdipanjan
+---
+
+[imd.to](https://imd.to) · [x](https://twitter.com/devdjm) · [linkedin](https://www.linkedin.com/in/mdipanjanmondal/)

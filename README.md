@@ -1,22 +1,19 @@
 # Dipanjan Mondal
 
-I like building things that start small and stay malleable.
+**I explain how software works, and share the tools I’m building to make it better.**
 
-Most of my work is around product engineering, mobile and web apps, AI applications, and tools that help ideas become usable sooner.
+I build developer tools and AI applications. My current interests go deeper into how programs execute, how systems fail, and how we can make both easier to understand.
 
-I care about software that can change shape: systems that are understandable, interfaces that feel quiet, and workflows that make iteration faster instead of heavier.
+## On the workbench
 
-I write at [imd.to](https://imd.to).
+I’m exploring **deterministic simulation and software verification**.
 
+I’m also working through **storage engines and concurrency from first principles**, turning what I learn into small implementations and visual explanations.
 
+These are works in progress. I share the mechanisms, experiments, and limitations as they become concrete.
 
-## Things I keep coming back to
+## Writing
 
-- malleable software
-- AI applications
-- tools for builders
-- useful interfaces
-- fast feedback loops
+I write about how software works and the decisions behind the tools I build.
 
-
-[imd.to](https://imd.to) · [x](https://twitter.com/devdjm) · [linkedin](https://www.linkedin.com/in/mdipanjanmondal/)
+[imd.to](https://imd.to) · [X](https://x.com/devdjm) · [LinkedIn](https://www.linkedin.com/in/mdipanjanmondal/)
